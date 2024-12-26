@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/triman/RayTracing/build",
+  "command": "/usr/bin/g++   -g -Wnon-virtual-dtor -Wreorder -Wmaybe-uninitialized -Wunused-variable -std=c++11 -o CMakeFiles/rayTracing.dir/src/main.cpp.o -c /home/triman/RayTracing/src/main.cpp",
+  "file": "/home/triman/RayTracing/src/main.cpp"
+}
+]
